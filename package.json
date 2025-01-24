@@ -7,8 +7,7 @@
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name GHOST-MD",
     "stop": "pm2 stop GHOST-MD",
-    "restart": "pm2 restart GHOST-MD"
-  }.
+    "restart": "pm2 restart GHOST-MD" },
   "keywords": ["ghost-md", "whatsapp-bot", "whatsapp md bot"],
   "author": "GHOST-Xsid",
   "license": "ISC",
